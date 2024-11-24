@@ -1,7 +1,6 @@
 name: strongR-frida
 
 on:
-  schedule:
   workflow_dispatch:
 
 jobs:
